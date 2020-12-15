@@ -24,9 +24,18 @@
 
 ## Videos
 
+- [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 - [Arrays vs Linked Lists](https://www.youtube.com/watch?v=DyG9S9nAlUM)
 - [Brian Kernighan on successful language design](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
 - [Bjarne Stroustrup - The Essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE)
 - [Elements of Programming Style - Brian Kernighan](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
 - [How To Think Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k)
 - [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo)
+
+## Clean Code
+
+- [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+- [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
+- [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
