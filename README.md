@@ -4,5 +4,5 @@
 ## Blog
 
 - [FreecodeCamp](https://www.freecodecamp.org/news)
-- Real Python Tutorials](https://realpython.com/
+- Real Python Tutorials](https://realpython.com/)
 - [Sitepoint](https://www.sitepoint.com/blog/)
