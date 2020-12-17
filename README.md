@@ -1,5 +1,5 @@
 - [Python](python.md)
-- [JavaScript]()
+- [JavaScript](javascript.md)
 
 ## Blog
 
