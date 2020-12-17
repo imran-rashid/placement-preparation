@@ -334,3 +334,50 @@ Testing, Decorators, Generators, Regular Expression, Object-Oriented, Functional
 ## Framework
 
 - [The Skills to Get a Job As a Django Developer](https://dev.to/steelwolf180/the-skills-to-get-a-job-as-a-django-developer-31ak)
+
+## Reading Topics
+
+## Python standard libraary
+
+- [The-Python-Standard-Library-by-Example](https://github.com/bat67/The-Python-Standard-Library-by-Example)
+- [python-standard-library-examples](https://github.com/c4collins/python-standard-library-examples)
+
+### OOP
+
+- [Python-and-OOP](https://github.com/arvimal/Python-and-OOP)
+- [Object-Oriented-Programming-Using-Python](https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python)
+
+### Clean Code
+
+- [clean-code-summary](https://github.com/kim-ninh/clean-code-summary)
+- [clean-code-python](https://github.com/zedr/clean-code-python)
+- [clean-code notes](https://github.com/timkendall/clean-code)
+- [Clean-Code notes](https://github.com/wongjiahau/Clean-Code)
+- [awesome-clean-code](https://github.com/kkisiele/awesome-clean-code)
+
+### Design Patterns
+
+- [python-patterns](https://github.com/faif/python-patterns)
+- [python-design-patterns notes](https://github.com/prateeksan/python-design-patterns)
+- [design pattern theory](https://github.com/NikosVlagoidis/Python-Design-Patterns)
+- [python-design-patterns](https://github.com/mrl5/python-design-patterns)
+- [py dp theory](https://github.com/KodeWorker/Python-Design-Patterns)
+
+### Data structures and algorithms
+
+- [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
+- [100-plus-python-coding-problems-with-solutions](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions)
+- [100-plus-Python-programming-exercises-extended](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
+- [python-interview-questions](https://github.com/learning-zone/python-interview-questions)
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [algorithms](https://github.com/keon/algorithms)
+- [py algo](https://github.com/TheAlgorithms/Python)
+- [Python for Algorithms, Data-Structures, and Interviews!](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
+- [coding problems](https://github.com/MTrajK/coding-problems)
+
+### Learning Python [Intermediate to advanced]
+
+- [py ref](https://github.com/rasbt/python_reference)
+- [learn py](https://github.com/trekhleb/learn-python)
+- [learn-python3](https://github.com/jerry-git/learn-python3)
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
