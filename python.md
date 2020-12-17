@@ -337,7 +337,7 @@ Testing, Decorators, Generators, Regular Expression, Object-Oriented, Functional
 
 ## Reading Topics
 
-## Python standard libraary
+### Python standard libraary
 
 - [The-Python-Standard-Library-by-Example](https://github.com/bat67/The-Python-Standard-Library-by-Example)
 - [python-standard-library-examples](https://github.com/c4collins/python-standard-library-examples)
@@ -349,6 +349,7 @@ Testing, Decorators, Generators, Regular Expression, Object-Oriented, Functional
 
 ### Clean Code
 
+- [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
 - [clean-code-summary](https://github.com/kim-ninh/clean-code-summary)
 - [clean-code-python](https://github.com/zedr/clean-code-python)
 - [clean-code notes](https://github.com/timkendall/clean-code)
