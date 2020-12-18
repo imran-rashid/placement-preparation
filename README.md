@@ -48,3 +48,17 @@
 - [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+
+## Placement Book
+
+- [Cracking the coding interview, 6th edition](https://github.com/careercup/CtCI-6th-Edition)
+    - https://github.com/StBogdan/CTCI_python
+    - https://github.com/careercup/CtCI-6th-Edition-Python
+    - https://github.com/alexhagiopol/cracking-the-coding-interview
+    - https://github.com/careercup/CtCI-6th-Edition-cpp
+    - https://github.com/w-hat/ctci-solutions
+- [Algorithms, 4th edition](https://github.com/kevin-wayne/algs4)
+    - https://www.oreilly.com/library/view/algorithms-fourth-edition/9780132762564/
+    - https://algs4.cs.princeton.edu/home/
+    - https://github.com/shellfly/algs4-py
+    
