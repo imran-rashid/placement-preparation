@@ -1,6 +1,13 @@
 - [Python](python.md)
 - [JavaScript](javascript.md)
 
+## Books for must read
+
+- fluent python. 2nd edition
+- modern python cookbook, 2nd edition
+- effective python, 2nd edition
+- 
+
 ## Twitter thread
 
 - [Get Hired Series' Articles](https://dev.to/techdebtor/series/3340)
