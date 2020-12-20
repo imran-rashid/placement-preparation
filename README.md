@@ -26,6 +26,7 @@
 
 ## Blog
 
+- [6 month plan](https://www.quora.com/How-can-I-get-a-job-at-Facebook-or-Google-in-6-months-I-need-a-concise-work-plan-to-build-a-good-enough-skill-set-Should-I-join-some-other-start-up-or-build-my-own-projects-start-up-Should-I-just-focus-on-practicing-data-structures-and-algorithms/answer/Harsh-Goel)
 - [Which book is better, for better programming and cracking a top tech interview](https://www.quora.com/Which-book-is-better-for-better-programming-and-cracking-a-top-tech-interview-Coding-Interview-Questions-by-Narasimha-Karumanchi-or-Elements-of-Programming-Interviews-by-Adnan-Aziz)
 - [FreecodeCamp](https://www.freecodecamp.org/news)
 - [Real Python Tutorials](https://realpython.com/)
