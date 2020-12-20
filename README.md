@@ -1,12 +1,19 @@
 - [Python](python.md)
 - [JavaScript](javascript.md)
 
-## Books for must read
+## Books for read
 
-- fluent python. 2nd edition
+- Python Crash Course, 2nd edition (part II)
+- Learn Python in Simple way (udemy)
+- Python 3 Object-Oriented Programming, 3rd edition
+- Python Deep Dive Series (udemy)
+- fluent python, 2nd edition
 - modern python cookbook, 2nd edition
 - effective python, 2nd edition
-- 
+- problem-solving Data Structure and Algorithms in Python
+- Algorithms Illuminated Series / Introduction to algorithms, 3rd edition
+- head first design patterns, 2nd editon
+- watch popular conf videos
 
 ## Twitter thread
 
@@ -19,6 +26,7 @@
 
 ## Blog
 
+- [Which book is better, for better programming and cracking a top tech interview](https://www.quora.com/Which-book-is-better-for-better-programming-and-cracking-a-top-tech-interview-Coding-Interview-Questions-by-Narasimha-Karumanchi-or-Elements-of-Programming-Interviews-by-Adnan-Aziz)
 - [FreecodeCamp](https://www.freecodecamp.org/news)
 - [Real Python Tutorials](https://realpython.com/)
 - [Sitepoint](https://www.sitepoint.com/blog/)
@@ -69,3 +77,9 @@
     - https://algs4.cs.princeton.edu/home/
     - https://github.com/shellfly/algs4-py
     
+- Introduction to algorithms, 3rd edition
+    - https://github.com/gzc/CLRS (py,cpp)
+    - https://github.com/walkccc/CLRS
+    - https://github.com/CyberZHG/CLRS
+    - https://discuss.codechef.com/t/solutions-for-clrs-3rd-edition/1730/2
+    - https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
