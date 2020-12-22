@@ -77,6 +77,8 @@
     - https://www.oreilly.com/library/view/algorithms-fourth-edition/9780132762564/
     - https://algs4.cs.princeton.edu/home/
     - https://github.com/shellfly/algs4-py
+    - https://www.coursera.org/learn/algorithms-part1
+    - https://www.coursera.org/learn/algorithms-part2
     
 - Introduction to algorithms, 3rd edition
     - https://github.com/gzc/CLRS (py,cpp)
