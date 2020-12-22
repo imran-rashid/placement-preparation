@@ -67,6 +67,8 @@
 
 ## Placement Book
 
+- Data Structures and Algorithms in Python
+
 - [Cracking the coding interview, 6th edition](https://github.com/careercup/CtCI-6th-Edition)
     - https://github.com/StBogdan/CTCI_python
     - https://github.com/careercup/CtCI-6th-Edition-Python
