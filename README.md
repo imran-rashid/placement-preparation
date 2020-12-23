@@ -70,30 +70,30 @@
 
 ## Placement Book
 
-- think like a programmer
+- :white_check_mark: think like a programmer
     - https://github.com/ThomasTerebesi/ThinkProgrammer
     - https://github.com/tmgerard/Think-Like-a-Programmer
     - https://github.com/Krernertok/think-like-a-programmer
     - https://github.com/ryanc414/think_like_a_programmer
-- Data Structures and Algorithms in Python
+- :white_check_mark: Data Structures and Algorithms in Python
     - https://github.com/wdlcameron/Solutions-to-Data-Structures-and-Algorithms-in-Python
     - https://github.com/shenxiangzhuang/Data-Structures-and-Algorithms-in-Python
     - https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python
     - https://github.com/findmyway/Data-Structures-and-Algorithms-in-Python
     - https://github.com/GeorgeGkas/Data_Structures_and_Algorithms_in_Python
-- [Cracking the coding interview, 6th edition](https://github.com/careercup/CtCI-6th-Edition)
+- :white_check_mark: [Cracking the coding interview, 6th edition](https://github.com/careercup/CtCI-6th-Edition)
     - https://github.com/StBogdan/CTCI_python
     - https://github.com/careercup/CtCI-6th-Edition-Python
     - https://github.com/alexhagiopol/cracking-the-coding-interview
     - https://github.com/careercup/CtCI-6th-Edition-cpp
     - https://github.com/w-hat/ctci-solutions
-- [Algorithms, 4th edition](https://github.com/kevin-wayne/algs4)
+- :white_check_mark: [Algorithms, 4th edition](https://github.com/kevin-wayne/algs4)
     - https://www.oreilly.com/library/view/algorithms-fourth-edition/9780132762564/
     - https://algs4.cs.princeton.edu/home/
     - https://github.com/shellfly/algs4-py
     - https://www.coursera.org/learn/algorithms-part1
     - https://www.coursera.org/learn/algorithms-part2
-- Introduction to algorithms, 3rd edition
+- :white_check_mark: Introduction to algorithms, 3rd edition
     - https://github.com/gzc/CLRS (py,cpp)
     - https://github.com/walkccc/CLRS
     - https://github.com/CyberZHG/CLRS
