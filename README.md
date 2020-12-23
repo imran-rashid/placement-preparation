@@ -49,6 +49,9 @@
 
 ## Videos
 
+- [The Analysis of Algorithms (2015, recreating 1969)](https://www.youtube.com/watch?v=vkUNH9r6UCI)
+- [Algorithms, Complexity, and The Art of Computer Programming](https://www.youtube.com/watch?v=2BdBfsXbST8)
+- [The Art of Computer Programming, Google Talk](https://www.youtube.com/watch?v=JPpk-1btGZk)
 - [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 - [Arrays vs Linked Lists](https://www.youtube.com/watch?v=DyG9S9nAlUM)
 - [Brian Kernighan on successful language design](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
