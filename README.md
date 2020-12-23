@@ -1,6 +1,3 @@
-- :white_check_mark: XXX
-- [x] XXX
-
 - [Python](python.md)
 - [JavaScript](javascript.md)
 
@@ -66,15 +63,24 @@
 ## Clean Code
 
 - [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
-- [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
+- :white_check_mark: [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
 - [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
 ## Placement Book
 
+- think like a programmer
+    - https://github.com/ThomasTerebesi/ThinkProgrammer
+    - https://github.com/tmgerard/Think-Like-a-Programmer
+    - https://github.com/Krernertok/think-like-a-programmer
+    - https://github.com/ryanc414/think_like_a_programmer
 - Data Structures and Algorithms in Python
-
+    - https://github.com/wdlcameron/Solutions-to-Data-Structures-and-Algorithms-in-Python
+    - https://github.com/shenxiangzhuang/Data-Structures-and-Algorithms-in-Python
+    - https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python
+    - https://github.com/findmyway/Data-Structures-and-Algorithms-in-Python
+    - https://github.com/GeorgeGkas/Data_Structures_and_Algorithms_in_Python
 - [Cracking the coding interview, 6th edition](https://github.com/careercup/CtCI-6th-Edition)
     - https://github.com/StBogdan/CTCI_python
     - https://github.com/careercup/CtCI-6th-Edition-Python
@@ -87,7 +93,6 @@
     - https://github.com/shellfly/algs4-py
     - https://www.coursera.org/learn/algorithms-part1
     - https://www.coursera.org/learn/algorithms-part2
-    
 - Introduction to algorithms, 3rd edition
     - https://github.com/gzc/CLRS (py,cpp)
     - https://github.com/walkccc/CLRS
