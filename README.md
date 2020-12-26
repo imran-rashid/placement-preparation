@@ -65,6 +65,8 @@
 
 ## Clean Code
 
+- [Code Complete Book Review by Dylan Israel](https://www.youtube.com/watch?v=zzP36oeXVLE)
+- [Clean Code book review](https://www.youtube.com/playlist?list=PL4KdJM8LzAMfSrWJldnGuU9O1EpsVbXZJ)
 - [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
 - :white_check_mark: [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
 - [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code)
