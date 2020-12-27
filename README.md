@@ -75,6 +75,18 @@
 
 ## Placement Book
 
+- :white_check_mark: JavaScript: The Good Parts
+    - https://github.com/rohit/js-good-parts
+    - https://github.com/dwyl/Javascript-the-Good-Parts-notes#chapter3
+    - https://github.com/ahmaazouzi/js_good_parts#chapter-3-objects
+    - https://www.oreilly.com/library/view/javascript-the-good/9780596517748/
+- :white_check_mark: Js design patterns
+    - https://github.com/addyosmani/essential-js-design-patterns
+    - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+    - https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/
+    - https://www.oreilly.com/library/view/javascript-patterns/9781449399115/
+- :white_check_mark:
+
 - :white_check_mark: think like a programmer
     - https://github.com/ThomasTerebesi/ThinkProgrammer
     - https://github.com/tmgerard/Think-Like-a-Programmer
