@@ -30,16 +30,15 @@
 
 - https://github.com/wdlcameron/Solutions-to-Data-Structures-and-Algorithms-in-Python
 - https://github.com/shenxiangzhuang/Data-Structures-and-Algorithms-in-Python
-- https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python
+- :white_check_mark: https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python
 - https://github.com/findmyway/Data-Structures-and-Algorithms-in-Python
 - https://github.com/GeorgeGkas/Data_Structures_and_Algorithms_in_Python
 
 ## Cracking the coding interview, 6th edition
 
 - https://github.com/StBogdan/CTCI_python
-- https://github.com/careercup/CtCI-6th-Edition-Python
+- :white_check_mark: https://github.com/careercup/CtCI-6th-Edition
 - https://github.com/alexhagiopol/cracking-the-coding-interview
-- https://github.com/careercup/CtCI-6th-Edition-cpp
 - https://github.com/w-hat/ctci-solutions
 - :white_check_mark: https://github.com/careercup/CtCI-6th-Edition
 
@@ -63,7 +62,7 @@
 ## Pragmatic Programmer
 
 - https://github.com/JuanCrg90/Pragmatic-Programmer-Notes
-- https://github.com/HugoMatilla/The-Pragmatic-Programmer#2-software-entropy
+- :white_check_mark: https://github.com/HugoMatilla/The-Pragmatic-Programmer
 - https://github.com/tedmiston/notes/blob/master/books/The%20Pragmatic%20Programmer.md
 
 ## Refactoring
