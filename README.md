@@ -48,11 +48,6 @@
 - [How do i become a Googler](https://www.quora.com/q/howdoibecomeagoogler/How-Do-I-become-a-good-competitive-programmer-and-what-are-the-materials-I-need-to-study-from)
 - [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054)
 
-## Podcast
-
-- [Talk Python to Me](https://talkpython.fm/episodes/all)
-- [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
-
 ## Videos
 
 - [The Analysis of Algorithms (2015, recreating 1969)](https://www.youtube.com/watch?v=vkUNH9r6UCI)
@@ -66,56 +61,5 @@
 - [How To Think Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k)
 - [LangNext 2014 (C++, Rust, D, Go)](https://www.youtube.com/watch?v=BBbv1ej0fFo)
 
-## Clean Code
 
-- [Code Complete Book Review by Dylan Israel](https://www.youtube.com/watch?v=zzP36oeXVLE)
-- [Clean Code book review](https://www.youtube.com/playlist?list=PL4KdJM8LzAMfSrWJldnGuU9O1EpsVbXZJ)
-- [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
-- :white_check_mark: [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
-- [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code)
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
-
-## Placement Book
-
-- :white_check_mark: JavaScript: The Good Parts
-    - https://github.com/rohit/js-good-parts
-    - https://github.com/dwyl/Javascript-the-Good-Parts-notes#chapter3
-    - https://github.com/ahmaazouzi/js_good_parts#chapter-3-objects
-    - https://www.oreilly.com/library/view/javascript-the-good/9780596517748/
-- :white_check_mark: Js design patterns
-    - https://github.com/addyosmani/essential-js-design-patterns
-    - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
-    - https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/
-    - https://www.oreilly.com/library/view/javascript-patterns/9781449399115/
-- :white_check_mark:
-
-- :white_check_mark: think like a programmer
-    - https://github.com/ThomasTerebesi/ThinkProgrammer
-    - https://github.com/tmgerard/Think-Like-a-Programmer
-    - https://github.com/Krernertok/think-like-a-programmer
-    - https://github.com/ryanc414/think_like_a_programmer
-- :white_check_mark: Data Structures and Algorithms in Python
-    - https://github.com/wdlcameron/Solutions-to-Data-Structures-and-Algorithms-in-Python
-    - https://github.com/shenxiangzhuang/Data-Structures-and-Algorithms-in-Python
-    - https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python
-    - https://github.com/findmyway/Data-Structures-and-Algorithms-in-Python
-    - https://github.com/GeorgeGkas/Data_Structures_and_Algorithms_in_Python
-- :white_check_mark: [Cracking the coding interview, 6th edition](https://github.com/careercup/CtCI-6th-Edition)
-    - https://github.com/StBogdan/CTCI_python
-    - https://github.com/careercup/CtCI-6th-Edition-Python
-    - https://github.com/alexhagiopol/cracking-the-coding-interview
-    - https://github.com/careercup/CtCI-6th-Edition-cpp
-    - https://github.com/w-hat/ctci-solutions
-- :white_check_mark: [Algorithms, 4th edition](https://github.com/kevin-wayne/algs4)
-    - https://www.oreilly.com/library/view/algorithms-fourth-edition/9780132762564/
-    - https://algs4.cs.princeton.edu/home/
-    - https://github.com/shellfly/algs4-py
-    - https://www.coursera.org/learn/algorithms-part1
-    - https://www.coursera.org/learn/algorithms-part2
-- :white_check_mark: Introduction to algorithms, 3rd edition
-    - https://github.com/gzc/CLRS (py,cpp)
-    - https://github.com/walkccc/CLRS
-    - https://github.com/CyberZHG/CLRS
-    - https://discuss.codechef.com/t/solutions-for-clrs-3rd-edition/1730/2
-    - https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+- :white_check_mark: 
