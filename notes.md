@@ -69,9 +69,6 @@
 ## Refactoring
 
 - https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md
-- https://gist.github.com/heygrady/5df80c50821465b30186b03037e885f7
-- https://github.com/HugoMatilla/Refactoring-Summary
 - https://github.com/nicoespeon/abracadabra#flip-ifelse
 - https://gist.github.com/cs-cordero/3799f26699bdecdb286fd719f08122af
 - https://github.com/ittus/Refactoring-summary-2nd-javascript#10-data-clumps
-- https://github.com/aza0092/Refactoring-Improving-the-Design-of-Existing-Code
