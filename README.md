@@ -1,5 +1,7 @@
 - [Python](python.md)
 - [JavaScript](javascript.md)
+- [Twitter thread](twitter.md)
+- [Notes](notes.md)
 
 ## Books for read
 
